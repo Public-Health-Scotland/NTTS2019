@@ -15,8 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Background
 
-- The Information Services Division (ISD) of the National Health Service (NHS) Scotland has a long history of producing official and national statistics. 
-- We produce around 200 publications each year.
+- The Information Services Division (ISD) of the National Health Service (NHS) Scotland produces around 200 official and national statistics publications each year.
 - Traditional publication format is a **static pdf document** with accompanying **excel tables**.
 - Production uses **proprietary software** and is **time-consuming**, involving extensive manual formatting and checking.
 
@@ -24,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 include_graphics("images/pdf report.png")
 ```
 
-## Vision
+## Transforming Publishing Vision
 
 ```{r out.width = "75%", fig.align = 'center'}
 include_graphics("images/VisionPoster.png")
@@ -48,13 +47,13 @@ include_graphics("images/user engagement.png")
 
 ## Minimum Viable Product (MVP)
 
-- [Acute Hospital Activity and Beds publication]https://www.isdscotland.org/Health-Topics/Hospital-Care/Publications/2018-12-18/acute-hospital-publication/?18426150084) released in December 2017.
+- [Acute Hospital Activity and Beds publication](https://www.isdscotland.org/Health-Topics/Hospital-Care/Publications/2018-12-18/acute-hospital-publication/?18426150084) released in December 2017.
 
 ```{r out.width = "75%", fig.align = 'center'}
 include_graphics("images/acute activity.png")
 ```
 
-## MVP: Data explorer
+## MVP: Data Explorer
 
 ```{r out.width = "85%", fig.align = 'center'}
 include_graphics("images/data explorer.png")
@@ -63,7 +62,7 @@ include_graphics("images/data explorer.png")
 <br>
 <br>[R Shiny code](https://github.com/Health-SocialCare-Scotland/Hospital-Acute-Activity/tree/master/Data-Explorer)
 
-## User Testing
+## User Testing the Data Explorer
 
 ```{r out.width = "60%", fig.align = 'center'}
 include_graphics("images/research process full.png")
@@ -88,19 +87,19 @@ include_graphics("images/quotes.png")
     - [Resources](https://github.com/NHS-NSS-transforming-publications/resources)
 - Consistency of Shiny dashboards:
     - Share [R Shiny code](https://github.com/Health-SocialCare-Scotland/Hospital-Acute-Activity/tree/master/Data-Explorer) for the original data explorer
-    - Future: design guidance
+    - Current development: design guidance
 - IT infrastructure
 
 
 ## Next Steps
 
-- Automate production process ([Reproducible Analytical Pipeline](https://ukgovdatascience.github.io/rap_companion/)).
+- [Psychiatric Inpatient Activity publication](https://www.isdscotland.org/Health-Topics/Mental-Health/Publications/2018-09-25/psychiatric-inpatient-activity/) was released on the new platform in September 2018.
+- Focus this year is on user research and automating the production process using [Reproducible Analytical Pipelines](https://ukgovdatascience.github.io/rap_companion/).
+- Toolkit and buddy system to enable this.
 
-```{r out.width = "60%", fig.align = 'center'}
-include_graphics("images/rap.png")
+```{r out.width = "80%", fig.align = 'center'}
+include_graphics("images/rap flow.png")
 ```
-
-Add other RAP visual and highlight other product backlog features.
 
 ## Thank You {.smaller}
 <div class="columns-2">
