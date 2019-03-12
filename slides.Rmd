@@ -1,7 +1,7 @@
 ---
 title: "Transforming Health <br> and Social Care <br> Publications in Scotland"
 subtitle: "NTTS Conference 2019"
-author: 'Anna Price <br> Information Services Division, NHS Scotland <br>'
+author: 'Anna Price <br> Information Services Division, NHS Scotland <br> anna.price5@nhs.net <br> @price_AH <br> '
 date: "March 13, 2019 <br><br> Slides: https://github.com/NHS-NSS-transforming-publications/NTTS2019"
 output:
   ioslides_presentation:
